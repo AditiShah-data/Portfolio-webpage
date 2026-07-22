@@ -257,7 +257,8 @@ body {
     background-color: rgb(84 82 82);
     height: 30px;
     font-size: 15px;
-    width: 88px;
+    width: auto;
+    padding: 12px;
     border-radius: 20px;
     color: white;
     margin-top: auto;
