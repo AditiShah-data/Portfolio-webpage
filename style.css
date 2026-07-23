@@ -156,15 +156,15 @@ body {
 }
 
 .name {
-    font-size: 48px;
+   font-size: clamp(3rem, 6vw, 4.5rem);
 }
 
 .decri {
-    font-size: 34px;
+    font-size: clamp(2rem, 4vw, 3.3rem);
 }
 
 .skills {
-    font-size: 30px;
+    font-size: clamp(1.9rem, 3vw, 2.3rem);
 }
 
 .about p {
@@ -172,6 +172,7 @@ body {
     flex-direction: column;
     padding: 10px;
     color: whitesmoke;
+    line-height: 1.6;
 }
 
 @media (max-width:850px) {
