@@ -150,8 +150,8 @@ body {
 
 .about img {
     width: clamp(250px, 40vw, 300px);
-    padding: 24px;
-    border-radius: 13%;
+  
+    border-radius: 13px;
 
 }
 
