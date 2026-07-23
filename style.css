@@ -176,9 +176,9 @@ body {
 }
 
 @media (max-width:850px) {
-    .about img {
+    /* .about img {
         width: 180px;
-    }
+    } */
 
     .about p {
         text-align: center;
