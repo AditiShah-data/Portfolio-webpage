@@ -280,8 +280,8 @@ body {
     }
 
     .dashboard {
-        flex: 0 0 250px
-        height:585px
+        flex: 0 0 250px;
+        height:585px;
     }
 
     .summary {
